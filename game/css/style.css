@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+
+div{
+background-color:#000fff;
+width:60%
+}
+
+button {
+  background-color: green;
+  font-size: 40px;
+  color: white;
+  border: 3px dashed black;
+  font-family: Open Sans;
+}
+
+marquee {
+  font-size: 40px;
+}
+
+p {
+  font-size:40px;
+}
